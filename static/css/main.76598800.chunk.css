@@ -1,0 +1,15 @@
+ @font-face { font-family: Balgin; src: url('Balgin.ttf'); } 
+
+ h1 { font-family: Balgin, Verdana; }
+ h2 { font-family: Balgin, Verdana; }
+ h3 { font-family: Balgin, Verdana; }
+ h4 { font-family: Balgin, Verdana; }
+
+body{margin:0;
+	font-family: Balgin,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;
+
+	background: rgb(250,243,158);
+	background: linear-gradient(0deg, rgba(250,243,158,1) 0%, rgba(117,233,226,1) 100%); 
+
+	color:#000000}
+	code{font-family:Balgin,monospace}.App{text-align:center}
